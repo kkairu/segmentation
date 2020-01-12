@@ -1,5 +1,5 @@
 
-# SEGMENTATION MACHINE LEARNING MODELS 
+# Segmentation Machine Learning Models 
 
 
 ## K Means Clustering Algorithm
@@ -17,7 +17,7 @@ Takeaways:
 - Majority of the customers have spending score in the range 41–60.
 - Majority of the customers have annual income in the range 60000 and 90000
 
-NOTEBOOK/CODE: https://github.com/kkairu/segmentation/blob/master/RFM%20-%20Simple%20Customer%20Segmentation.ipynb
+https://github.com/kkairu/segmentation/blob/master/RFM%20-%20Simple%20Customer%20Segmentation.ipynb
 
 
 ## RFM - Customer Segmentation
@@ -30,5 +30,5 @@ Takeaways:
 - There are few customers in the “Disengaged” bucket and they have an average revenue higher than the “Star” bucket. Action is to coantact the customers and activate them. Engage
 - The average last order from the “Light” bucket is very old (> 1 yr vs. 60-70 days for ‘engaged’ customers). Launch a simple reactivation campaign
 
-NOTEBOOK/CODE: https://github.com/kkairu/segmentation/blob/master/K%20Means%20Clustering%20Algorithm.ipynb
+https://github.com/kkairu/segmentation/blob/master/K%20Means%20Clustering%20Algorithm.ipynb
 
